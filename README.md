@@ -40,4 +40,4 @@
 
 </p>
 
-  ![Snake animation](https://github.com/damirodev/damirodev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/damirodev/damirojr/blob/output/github-contribution-grid-snake.svg)
