@@ -39,5 +39,3 @@
  </p>
 
 </p>
-
-  ![Snake animation](https://github.com/damirojr/damirojr/blob/output/github-contribution-grid-snake.svg)
