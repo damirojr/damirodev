@@ -5,10 +5,10 @@
 <body>
  
 ## Olá me chamo Damiro!
-<div>   
- <img hight="300" width="400" alt="GIF" align="left" src="https://github.com/damirojr/damirojr/blob/afe9c08cf24002540a1326cc372927fac80bd418/assets/1936.gif">
-</div> 
 
+<div>   
+ <img hight="400" width="400" alt="GIF" align="left" src="https://github.com/damirojr/damirojr/blob/afe9c08cf24002540a1326cc372927fac80bd418/assets/1936.gif">
+ </div> 
 
 
 <div align="center">
@@ -16,9 +16,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=damirojr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  
 </div>
- <br>
- 
- <div align="center">
+   
+   </br>
+   </br>
+   </br>
+   
+<div align="left">
+   <h5>- Estudante de Análise e Desenvolvimento de Sistemas.</h3>
+   <h5>- Atualmente estou estudando sobre AWS e desenvolvimento em Cloud.</h3
+</div>
+    
+   <div align="center">
     <h2 align="left">Skills ⚡</h2>
     <i class="devicon-devicon-plain"></i>   
     <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">  
