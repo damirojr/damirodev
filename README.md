@@ -5,13 +5,13 @@
 <body>
  
 ## Olá me chamo Damiro!
-
-
+<div>   
+ <img hight="300" width="400" alt="GIF" align="left" src="https://github.com/damirojr/damirojr/blob/afe9c08cf24002540a1326cc372927fac80bd418/assets/1936.gif">
+</div> 
 
 
 
 <div align="center">
-  <img hight="300" width="400" alt="GIF" align="left" src="https://github.com/damirojr/damirojr/blob/afe9c08cf24002540a1326cc372927fac80bd418/assets/1936.gif">
   <a href="https://github.com/damirojr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=damirojr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  
