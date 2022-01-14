@@ -7,7 +7,7 @@
 ## Olá me chamo Damiro!
 
 <div>   
- <img hight="400" width="400" alt="GIF" align="left" src="https://github.com/damirojr/damirojr/blob/afe9c08cf24002540a1326cc372927fac80bd418/assets/1936.gif">
+ <img hight="100" width="200" alt="GIF" align="left" src="https://github.com/damirojr/damirojr/blob/afe9c08cf24002540a1326cc372927fac80bd418/assets/1936.gif">
  </div> 
 
 
