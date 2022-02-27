@@ -52,13 +52,6 @@
   <a href="https://www.linkedin.com/in/damirojunior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 
- <p align="center"> 
-
- ## Contador de visistas :shipit:
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/damirojr/count.svg" />
- </p>
  
-</p>
  </body>
 </header>
