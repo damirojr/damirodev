@@ -16,7 +16,7 @@
     <h5>🚀 My focus is: </h5>
     <h5>☁️ Cloud computing, AWS, GCP, Azure.</h5>
     <h5>💻 Developer in NodeJs, Python, C and more.</h5>
-    <h5>🔨 I'm looking for a new JS backend developer job.</h5>
+    <h5>🔨 I'm looking for a DevOps Engineer job.</h5>
   </div>
     
 <div>   
@@ -30,6 +30,8 @@
    <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">  
    <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg"> 
    <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+   <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg">
+   <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
    <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
    <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
    <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> 
@@ -38,6 +40,7 @@
    <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg">
    <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
    <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  
  </div>
 
  <div>
