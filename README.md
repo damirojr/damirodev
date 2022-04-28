@@ -4,7 +4,8 @@
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <body>
  
-## Olá me chamo Damiro mas pode me chamar de Dan!
+## Olá me chamo Damiro! 
+ mas pode me chamar de Dan :)
 
 
 <div align="center">
