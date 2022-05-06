@@ -17,7 +17,7 @@
     <h5>🚀 My focus is: </h5>
     <h5>☁️ Cloud computing, AWS, GCP, Azure.</h5>
     <h5>💻 Developer in NodeJs, Python, C and more.</h5>
-    <h5>🔨 I'm looking for a DevOps Engineer job.</h5>
+   
   </div>
     
 <div>   
