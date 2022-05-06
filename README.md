@@ -12,18 +12,16 @@
   <a href="https://github.com/damirojr">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=damirojr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damirojr&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  <div align="left">  
+</div>   
+<div>   
+   <img hight="200" width="250" alt="GIF" align="right" src="https://github.com/damirojr/damirojr/blob/afe9c08cf24002540a1326cc372927fac80bd418/assets/1936.gif">
+</div>   
+   <div align="left">  
     <h5>🚀 My focus is: </h5>
     <h5>☁️ Cloud computing, AWS, GCP, Azure.</h5>
     <h5>💻 Developer in NodeJs, Python, C and more.</h5>
    
   </div>
-    
-<div>   
-   <img hight="200" width="250" alt="GIF" align="right" src="https://github.com/damirojr/damirojr/blob/afe9c08cf24002540a1326cc372927fac80bd418/assets/1936.gif">
-</div>   
-   
 <div align="center">
    <h2 align="left">Skills ⚡</h2>
    <i class="devicon-devicon-plain"></i>   
